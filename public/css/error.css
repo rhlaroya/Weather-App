@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(204, 60, 50);
+    font-size: 200px;
+}
+
+p {
+    font-size: 100px;
+}
+
+.error {
+    text-align: center;
+}
